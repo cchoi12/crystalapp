@@ -1,0 +1,13 @@
+name: Distance
+version: 0.1.0
+
+authors:
+  - Christopher Choi <cdddchris@gmail.com>
+
+targets:
+  Distance:
+    main: src/Distance.cr
+
+crystal: 0.21.1
+
+license: MIT
