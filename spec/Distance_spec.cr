@@ -1,9 +1,7 @@
 require "./spec_helper"
 
 describe Distance do
-  # TODO: Write tests
-
   it "works" do
-    false.should eq(true)
+    Distance.run("hi", "hi").should eq(0)
   end
 end
